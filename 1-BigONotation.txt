@@ -1,0 +1,13 @@
+Best (Ω)(Omega)   average(θ)(Theta)  worst(O)(BigO Notation)
+
+Big O Notation
+
+Time complexity - Amount of time code takes to execute.
+Space complexity - Amount of memory code consumes to execute.
+
+
+O(1)    - Constant
+O(N)    - Linear
+O(logN) - Logarithmic
+O(N²)   - Quadratic
+O(2^N)  - Exponential
